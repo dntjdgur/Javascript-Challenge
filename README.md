@@ -1,3 +1,3 @@
-# SQLAlchemy-Challenge
+# Javascript-Challenge
 
 #### Simple Javascript Assignment to create a filter for table called-in.
